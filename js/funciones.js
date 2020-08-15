@@ -4,3 +4,7 @@ function prueba(){
 function agregar(){
 	alert("Soy una alerta");
 }
+function texto(){
+	var text = prompt("Ingresa el texto");
+	document.write(text);
+}
