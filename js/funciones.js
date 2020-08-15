@@ -8,3 +8,4 @@ function texto(){
 	var text = prompt("Ingresa el texto");
 	document.write(text);
 }
+console.log("hola");
